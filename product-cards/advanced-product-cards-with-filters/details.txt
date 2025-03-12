@@ -1,0 +1,1 @@
+Use this example to show an advanced settings bar with filter and sorting options and then a list of product cards with images inside a carousel, product title, pricing, CTA buttons, and more.

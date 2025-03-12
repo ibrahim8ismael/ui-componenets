@@ -1,0 +1,1 @@
+This example can be used to show the latest orders inside of a drawer component with the option to order again, cancel the order or view more details.

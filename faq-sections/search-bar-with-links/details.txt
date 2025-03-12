@@ -1,0 +1,1 @@
+Use this example to enable the possibility to search for questions and answers and also show a list of helpful links to commonly asked questions.

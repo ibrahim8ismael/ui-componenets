@@ -1,0 +1,1 @@
+Use this example to show all information regarding the status of a refund inside of a drawer component that includes a timeline and informational cards.

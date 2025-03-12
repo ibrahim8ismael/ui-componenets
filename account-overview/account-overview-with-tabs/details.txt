@@ -1,0 +1,1 @@
+Use this example to show an e-commerce dashboard for a logged in user with tabs featuring data such as general overview, latest orders, refund requests, reviews, and more.

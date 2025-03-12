@@ -1,0 +1,1 @@
+This component can be used to show a list of tracking events using a timeline component and a set of cards where you can show the order information.

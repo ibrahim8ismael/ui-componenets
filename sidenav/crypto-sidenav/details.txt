@@ -1,0 +1,1 @@
+Use this example to show a list of cryptocurrencies in a list in the sidenav showing the coin logo, name, ticker, price, and market movement.

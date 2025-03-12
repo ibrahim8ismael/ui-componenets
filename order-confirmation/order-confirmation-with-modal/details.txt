@@ -1,0 +1,1 @@
+This example can be used to show a success message inside of a modal component that can be dismissed after successfully purchasing an item from an e-commerce store.

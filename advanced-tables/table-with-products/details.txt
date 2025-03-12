@@ -1,0 +1,1 @@
+This responsive table component can be used to show a list of products with images, categories, sales generated, and ratings in your e-commerce platform.

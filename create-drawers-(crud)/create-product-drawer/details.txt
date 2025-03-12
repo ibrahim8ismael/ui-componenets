@@ -1,0 +1,1 @@
+This example can be used to show an advanced layout of form input elements inside a drawer component to create a product data entry inside your dashboard interface.

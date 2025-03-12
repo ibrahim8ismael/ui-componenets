@@ -1,0 +1,1 @@
+Use this example to show a list of features and then a list of multiple user testimonials inside of a carousel component that slides automatically every few seconds.

@@ -1,0 +1,1 @@
+This example can be used to show detailed information about an existing user from the database based on a CRUD layout website section.

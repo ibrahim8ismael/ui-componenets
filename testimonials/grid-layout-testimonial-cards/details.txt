@@ -1,0 +1,1 @@
+Showcase up to three testimonial cards for every row and show a title, description, avatar, name, and occupation of the customer making the statement.

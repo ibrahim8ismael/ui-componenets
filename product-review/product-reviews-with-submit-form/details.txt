@@ -1,0 +1,1 @@
+Use this example to show an overview of all ratings, a list of detailed user reviews and a form where you can submit a review.

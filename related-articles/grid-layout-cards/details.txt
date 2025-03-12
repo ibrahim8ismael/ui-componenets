@@ -1,0 +1,1 @@
+Use this example to show three cards on a row based on a grid layout to encourage users to read another article.

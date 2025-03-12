@@ -1,0 +1,1 @@
+This example can be used to switch between multiple authenticated users and also allow adding new navigation menu items using the CTA button.

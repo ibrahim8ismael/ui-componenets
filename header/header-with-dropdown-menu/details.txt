@@ -1,0 +1,1 @@
+Use this example if you want to create a multi-level dropdown element inside the header component based on the collapse feature from the core library.

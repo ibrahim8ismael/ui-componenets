@@ -1,0 +1,1 @@
+Use this modal to show extended data about the cookies used on your website and allow your users to choose which privacy data to share for GDPR compliance.

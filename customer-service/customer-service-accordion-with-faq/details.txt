@@ -1,0 +1,1 @@
+Use this example to show a list of frequently asked questions and answers inside an accordion component for your e-commerce customers.

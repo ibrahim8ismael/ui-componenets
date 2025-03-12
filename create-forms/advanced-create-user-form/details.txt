@@ -1,0 +1,1 @@
+Use this example to create a user data entry inside your dashboard based on this advanced CRUD create form layout featuring multiple text, select, email, search, and file upload input fields.

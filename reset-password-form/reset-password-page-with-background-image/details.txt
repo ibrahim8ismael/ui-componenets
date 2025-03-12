@@ -1,0 +1,1 @@
+This example can be used to apply a background image to the whole page and position the forgot password form in the center of it.

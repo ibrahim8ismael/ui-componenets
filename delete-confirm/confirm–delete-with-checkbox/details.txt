@@ -1,0 +1,1 @@
+Use this example to require a checkbox selection from the user before proceeding with the deletion of an item from the database.

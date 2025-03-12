@@ -1,0 +1,1 @@
+Use this example to show a full page of customer service data using FAQ sections and a modal to submit a question.

@@ -1,0 +1,1 @@
+This example can be used to show three or more featured product categories in between product listings and categories on your homepage or as related content when showing product pages.

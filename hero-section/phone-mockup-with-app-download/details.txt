@@ -1,0 +1,1 @@
+Use this component to show a preview of a mobile application inside a frame coded with Tailwind CSS and the mobile app download buttons for AppStore and Google Play.

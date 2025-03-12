@@ -1,0 +1,1 @@
+Use this example of a responsive navigation bar for your website by showing multiple menu items, a few CTA buttons, and a hamburger icon to toggle the mobile view.

@@ -1,0 +1,1 @@
+This example can be used to show the shopping cart details and selected products inside of a modal component.

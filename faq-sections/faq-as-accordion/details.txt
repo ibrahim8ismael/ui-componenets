@@ -1,0 +1,1 @@
+This example is based on the Accordion component from Flowbite and it can be used to only expand the answer to each question based on user interaction.

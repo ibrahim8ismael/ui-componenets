@@ -1,0 +1,1 @@
+Use this component to show an image of the product, title, description, pricing, rating, and the CTA buttons to purchase the item.

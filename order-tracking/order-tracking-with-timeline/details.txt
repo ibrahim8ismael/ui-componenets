@@ -1,0 +1,1 @@
+Use this component to show a horizontal timeline of the shipping status together with an overview of the products and details that the user provided for the product purchase.

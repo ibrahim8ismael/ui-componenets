@@ -1,0 +1,1 @@
+Use this example to show a list of items from your database inside a list of cards with CRUD actions including creating, reading, updating, and deleting data.

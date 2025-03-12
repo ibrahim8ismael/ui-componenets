@@ -1,0 +1,1 @@
+This example can be used to show a list of all recent orders inside of a table together with marketing cards for vouchers and loyalty benefits points.

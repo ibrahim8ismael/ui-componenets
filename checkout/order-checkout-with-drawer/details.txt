@@ -1,0 +1,1 @@
+This example can be used to add all checkout related details such as the order summary, shipping details and payment information inside a drawer component.

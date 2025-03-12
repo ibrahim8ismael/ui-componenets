@@ -1,0 +1,1 @@
+Use this example to show the order confirmation message, an overview of the purchased item and a list of related products at the end of the page to increase conversions.

@@ -1,0 +1,1 @@
+Use this example to show the summary of the order inside cards and also allow the user to edit the details using modals.

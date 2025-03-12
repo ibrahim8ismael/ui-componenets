@@ -1,0 +1,1 @@
+This example of a modal component can be used to show a descriptive icon and a warning message before proceeding with an item removal from the database.

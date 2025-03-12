@@ -1,0 +1,1 @@
+Get started with this hero section to use a CTA component with multiple helper descriptions and a screenshot of your application.

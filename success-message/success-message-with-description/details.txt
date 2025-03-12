@@ -1,0 +1,1 @@
+Use this example to show a short description of the previous action result when showing a success message modal component.

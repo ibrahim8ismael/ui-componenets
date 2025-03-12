@@ -1,0 +1,1 @@
+This example can be used if you want to highlight a large image and two separate CTA buttons often used for conference websites.

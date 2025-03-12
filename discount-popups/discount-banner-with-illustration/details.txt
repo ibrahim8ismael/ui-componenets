@@ -1,0 +1,1 @@
+This example can be used as another sticky banner to promote campaigns and discount codes by using an illustration and a button as CTA elements.

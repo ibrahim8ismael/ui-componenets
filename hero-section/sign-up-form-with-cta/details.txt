@@ -1,0 +1,1 @@
+This example can be used to directly let your website visitors sign up or login to your platform without having to redirect them by providing a functional form directly inside the hero section.

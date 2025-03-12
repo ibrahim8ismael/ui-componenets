@@ -1,0 +1,1 @@
+Use this example to show a list of your team members with cards featuring the profile picture of a team member with overlayed text and a zoom effect.

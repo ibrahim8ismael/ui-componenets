@@ -1,0 +1,1 @@
+Use this example to show an overview of your account details and a sidebar with links to other pages for your e-commerce account inside a modal component.

@@ -1,0 +1,1 @@
+Use this component to show a vertical timeline of the shipping order status and an overview of the purchase inside of a drawer component.

@@ -1,0 +1,1 @@
+Use the default sidebar navigation to show a list of menu items with dropdown items and a list of options links at the bottom of the component.

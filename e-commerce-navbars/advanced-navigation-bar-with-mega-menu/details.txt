@@ -1,0 +1,1 @@
+Use this example to show a four layered navigation that includes an announcement banner, dropdown menus for language, shopping cart, user settings, a search bar and a mega menu.

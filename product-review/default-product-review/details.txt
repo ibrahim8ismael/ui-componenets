@@ -1,0 +1,1 @@
+Use this example to show a list of user reviews for a product and a modal with a form where you can submit a review too.

@@ -1,0 +1,1 @@
+Use this example to show a list of headers and links as text on multiple columns within a grid layout to showcase all categories and subcategories of an e-commerce store.

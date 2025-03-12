@@ -1,0 +1,1 @@
+This example can be used to show a double-side nav with a collapsable sidebar with menu items and dropdowns.

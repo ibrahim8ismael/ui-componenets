@@ -1,0 +1,1 @@
+Use this example to show a navbar for e-commerce websites with a search bar, dropdown menus, delivery location selectors, language selectors and a submenu list.

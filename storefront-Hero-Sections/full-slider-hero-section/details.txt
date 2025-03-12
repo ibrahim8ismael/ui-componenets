@@ -1,0 +1,1 @@
+Use this section as a full slider hero component to show campaigns and special sale events for your e-commerce store based on the carousel components

@@ -1,0 +1,1 @@
+This example can be used to show large featured images as screenshots for the client work together with a title, description, technologies that have been used and a CTA button to the case study page.

@@ -1,0 +1,1 @@
+This example can be used to show form elements inside a drawer component to update an existing event data set including datepickers, textareas, and color tags.

@@ -1,0 +1,1 @@
+This example can be used to show up to four team members on a single row inside cards and showcase a picture, name, occupation, and social media accounts.

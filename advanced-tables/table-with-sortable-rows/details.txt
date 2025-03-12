@@ -1,0 +1,1 @@
+Use this example of a responsive table to show sortable rows and a lift of products with details such as category, price, sales, and status.

@@ -1,0 +1,1 @@
+Use this component to show a form element with inputs to add delivery and payment information and a table with an overview of the final price.

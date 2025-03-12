@@ -1,0 +1,1 @@
+This is a great example if you want to show the avatar of a logged-in website visitor and a choice of pages relevant to the administration of their account.

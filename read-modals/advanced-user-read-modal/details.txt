@@ -1,0 +1,1 @@
+Use this modal component to show detailed information about a user from your database including the profile picture, name, biography, and CRUD action buttons.

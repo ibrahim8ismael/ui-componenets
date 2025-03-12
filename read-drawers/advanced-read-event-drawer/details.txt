@@ -1,0 +1,1 @@
+Use this example to show advanced details about an existing event data entry from your database inside a drawer component.

@@ -1,0 +1,1 @@
+This component can be used to show a list of options to choose from for delivery address, methods, and the pick up time using a datepicker component and modals.

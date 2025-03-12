@@ -1,0 +1,1 @@
+Use this component show the order summary and selected products to be purchased inside of a modal component.

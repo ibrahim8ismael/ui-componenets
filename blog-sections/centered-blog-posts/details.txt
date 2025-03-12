@@ -1,0 +1,1 @@
+Use this centered style of blog posts list showing only the title, author, publication date, and the number of social media shares.

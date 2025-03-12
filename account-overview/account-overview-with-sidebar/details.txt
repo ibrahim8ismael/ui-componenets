@@ -1,0 +1,1 @@
+This example can be used to show an overview of the account data using a sidebar dashboard layout featuring a pricing plan highlighted card, a list of active orders, user profile information and modals with forms.

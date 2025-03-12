@@ -1,0 +1,1 @@
+This example can be used to show a search input field inside the table header to filter results by a query string.

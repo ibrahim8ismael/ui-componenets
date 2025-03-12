@@ -1,0 +1,1 @@
+Use this example to show a search bar and a CTA button inside the side navigation alongside the default menu items.

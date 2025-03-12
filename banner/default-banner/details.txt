@@ -1,0 +1,1 @@
+Use this example of a dismissable banner component to show extra information relative to the main content area of the page based on a sticky positition.

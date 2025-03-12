@@ -1,0 +1,1 @@
+This example can be used to provide a search and booking functionality based on the datepicker plugin from the Flowbite library.

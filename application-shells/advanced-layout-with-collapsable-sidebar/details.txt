@@ -1,0 +1,1 @@
+Use this advanced example to show a multi-level sidebar with collapsable content together with a sticky navbar, main content area and a secondary sidebar on the right side of the page.

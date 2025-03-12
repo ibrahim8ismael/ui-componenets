@@ -1,0 +1,1 @@
+Use this example to show a navigation bar for e-commerce websites including a list of menu items, a shopping cart dropdown, a my account dropdown and a hamburger menu.

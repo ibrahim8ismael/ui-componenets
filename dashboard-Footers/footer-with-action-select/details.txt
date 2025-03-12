@@ -1,0 +1,1 @@
+This example can be used to show a dropdown select to create bulk actions to table data within an admin dashboard interface.

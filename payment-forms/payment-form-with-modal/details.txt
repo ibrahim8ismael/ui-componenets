@@ -1,0 +1,1 @@
+This example can be used to select a payment method or add the credit card details using input fields inside of a modal component.

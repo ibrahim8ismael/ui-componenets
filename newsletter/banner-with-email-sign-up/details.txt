@@ -1,0 +1,1 @@
+Show a dismissable banner component to enable a website visitor to sign up to your newsletter without affecting the main content area of the page.

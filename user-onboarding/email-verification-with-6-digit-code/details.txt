@@ -1,0 +1,1 @@
+Use this page to verify the email address of the user by sending a 6-digit code that has to be applied to this page before the account can be activated.

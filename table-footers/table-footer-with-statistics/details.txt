@@ -1,0 +1,1 @@
+This example can be used to show statistics about the table component and allow users to export the data via CSV from inside the table using a button.

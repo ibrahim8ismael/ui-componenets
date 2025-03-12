@@ -1,0 +1,1 @@
+Use this application shell example with two responsive sidebars to feature menu items, search, notifications, and show user profile settings.

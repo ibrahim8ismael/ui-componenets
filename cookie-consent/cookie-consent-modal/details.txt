@@ -1,0 +1,1 @@
+This modal can be used to show more information about the privacy and cookie policy before you ask the website visitors to allow the storage of third-party cookies.

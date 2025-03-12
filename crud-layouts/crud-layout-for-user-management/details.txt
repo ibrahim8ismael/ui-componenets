@@ -1,0 +1,1 @@
+This example can be used to manage users inside an application system using CRUD action modals and featuring table filtering options.

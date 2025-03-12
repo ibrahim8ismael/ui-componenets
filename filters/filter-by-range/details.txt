@@ -1,0 +1,1 @@
+Use this example to filter search results based on a price range using buttons and input field elements inside a dropdown.

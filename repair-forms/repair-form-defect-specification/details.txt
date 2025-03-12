@@ -1,0 +1,1 @@
+Use this component to specify the defect of a previously selected product from an e-commerce website using a textarea form with WYSIWYG functionalities as the second step of a stepper component.

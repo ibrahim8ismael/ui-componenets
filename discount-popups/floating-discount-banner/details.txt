@@ -1,0 +1,1 @@
+Use this sticky banner example with floating styles to show a discount icon, promotional text and a CTA link to the campaign page.

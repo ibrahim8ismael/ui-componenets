@@ -1,0 +1,1 @@
+Use this example to also show a visual image next to the title, description, author, publication date, and category of the blog post.

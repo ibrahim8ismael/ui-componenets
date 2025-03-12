@@ -1,0 +1,1 @@
+Use this simple cookie consent popup component on the bottom right part of your website to ask for permission to apply third-party cookies and collect personal information about your visitor.

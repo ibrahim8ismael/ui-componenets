@@ -1,0 +1,1 @@
+This example can be used if you also want to show a visual image and a CTA link below each feature list item.

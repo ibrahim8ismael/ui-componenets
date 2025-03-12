@@ -1,0 +1,1 @@
+Use this modal component to show images, colors, cards, and text data for an existing product from the database.

@@ -1,0 +1,1 @@
+Use this example to show details about the currently logged-in user and menu items for website navigation.

@@ -1,0 +1,1 @@
+Use this example to show a timeline of the status of a product ordered from an e-commerce website after the purchase has been completed by the customer.

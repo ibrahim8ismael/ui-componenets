@@ -1,0 +1,1 @@
+Use this example to show a gallery of images of the product, title, description, rating, shipping methods and the CTA buttons to purchase the item and quantity.

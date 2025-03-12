@@ -1,0 +1,1 @@
+Use this example to create an event item inside a modal featuring text input fields, a datepicker, and more.

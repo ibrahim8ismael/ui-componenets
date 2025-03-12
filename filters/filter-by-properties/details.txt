@@ -1,0 +1,1 @@
+This advanced example can be used to add multiple properties and options to the current filtering feature inside a dropdown component.

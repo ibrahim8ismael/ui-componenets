@@ -1,0 +1,1 @@
+This example can be used to also show a heading text next to a list of customer logos based on a responsive grid layout.

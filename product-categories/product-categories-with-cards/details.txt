@@ -1,0 +1,1 @@
+Use this example to show a list of product categories inside cards with SVG icons and a title and a CTA button to view all categories for your e-commerce website.

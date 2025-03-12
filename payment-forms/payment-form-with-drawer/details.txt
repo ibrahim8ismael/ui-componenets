@@ -1,0 +1,1 @@
+Use this component to show all the payment methods and actions for an e-commerce website inside of a drawer component that can be shown or hidden based on the click of a button.

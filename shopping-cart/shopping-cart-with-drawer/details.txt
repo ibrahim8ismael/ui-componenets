@@ -1,0 +1,1 @@
+Use this example to show the shopping cart details and order summary inside of a drawer component.

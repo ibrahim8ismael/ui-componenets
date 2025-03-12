@@ -1,0 +1,1 @@
+This example can be used to showcase a book cover or an e-book presentation featuring a title, description, CTA buttons, and reviews from customers.

@@ -1,0 +1,1 @@
+You may want to use a more complex dropdown component for a menu item to showcase multiple categories and actions instead of a list of sub-menu items.

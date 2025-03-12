@@ -1,0 +1,1 @@
+This example can be used to show a list of requested and completed refunds inside of a modal component with a search input and filterable rows.

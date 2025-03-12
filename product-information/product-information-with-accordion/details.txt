@@ -1,0 +1,1 @@
+Use this example to show multiple categories of product information such as the description, technical details table, questions and warranty options.

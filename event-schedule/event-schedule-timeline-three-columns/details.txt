@@ -1,0 +1,1 @@
+Use this example to show the schedule of the event based on a timeline for each day featuring the timing, title, speakers, and sponsors of the workshop.

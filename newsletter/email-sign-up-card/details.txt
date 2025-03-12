@@ -1,0 +1,1 @@
+Use this example of an email sign-up input element inside a card component with a privacy notice to convince users to subscribe to your newsletter.

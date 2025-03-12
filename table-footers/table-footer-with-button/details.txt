@@ -1,0 +1,1 @@
+This free example can be used as a footer for the table component to show a button and the total amount of data items shown inside the table.

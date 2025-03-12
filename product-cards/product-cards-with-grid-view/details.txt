@@ -1,0 +1,1 @@
+Use this example to show product cards within a grid layout and use filter options inside of a drawer component where you can search based on price, rating, color, size, and more.

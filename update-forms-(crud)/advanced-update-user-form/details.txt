@@ -1,0 +1,1 @@
+Use this example to update an existing user from your database with advanced input fields such as the file upload, WISYWIG editor, and more.

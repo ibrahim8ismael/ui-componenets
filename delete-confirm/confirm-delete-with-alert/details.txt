@@ -1,0 +1,1 @@
+Use this example to show an alert message inside the delete confirmation modal component to reveal the consequences of removing an item from the database.

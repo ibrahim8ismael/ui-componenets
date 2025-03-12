@@ -1,0 +1,1 @@
+This example can be used to show an offcanvas popup component on any corner side of your website to indicate an ongoing promotion and discount campaign.

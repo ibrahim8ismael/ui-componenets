@@ -1,0 +1,1 @@
+Use this example of a modal component with an email sign-up element inside and show it when the website visitors have read an article or scrolled to the bottom of the page.

@@ -1,0 +1,1 @@
+Use this example to show multiple filter option filters inside a dropdown include price range sliders, text input fields, checkboxes and radio input elements.

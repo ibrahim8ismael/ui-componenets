@@ -1,0 +1,1 @@
+Use this component to show a list of all orders inside of a modal component with search, filtering and sorting options using dropdown menus.

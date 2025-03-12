@@ -1,0 +1,1 @@
+Use this example to show the final step of an e-commerce purchase using a stepper and a sidebar layout to provide all shipping details and the order amount.

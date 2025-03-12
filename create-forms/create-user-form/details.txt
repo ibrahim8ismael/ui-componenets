@@ -1,0 +1,1 @@
+This example of a CRUD form can be used to create a user in the database featuring the first name, last name, password, and biography as text input fields.

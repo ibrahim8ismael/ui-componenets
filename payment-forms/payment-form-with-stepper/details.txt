@@ -1,0 +1,1 @@
+Use this example to show the last step from the checkout process by indicating a stepper timeline and also show a list of alternative payment methods using buttons.

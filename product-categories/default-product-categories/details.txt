@@ -1,0 +1,1 @@
+Use this example to show a list of all categories within your website using small cards with icons and text that are anchor links and a CTA button to show all categories on a dedicated page.

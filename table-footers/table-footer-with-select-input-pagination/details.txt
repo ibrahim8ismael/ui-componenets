@@ -1,0 +1,1 @@
+Use this example to select the amount of rows you want to show inside a table and a simple pagination system with a next and previous button.

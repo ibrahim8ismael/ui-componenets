@@ -1,0 +1,1 @@
+Use this example if you want to allow your website visitors to directly convert currency (crypto included) in the hero section alongside statistical numbers.

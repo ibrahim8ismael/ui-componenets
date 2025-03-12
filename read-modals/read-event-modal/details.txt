@@ -1,0 +1,1 @@
+Use this modal component to show the title, date, location, and details of an event from the database.

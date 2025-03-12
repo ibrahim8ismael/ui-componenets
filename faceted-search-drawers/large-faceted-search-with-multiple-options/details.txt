@@ -1,0 +1,1 @@
+Use this example to show a large drawer component with multiple filter options such as checkbox, radio, and toggle groups.

@@ -1,0 +1,1 @@
+This example can be used as a secondary sidenav on the right side of the page by showing a list of active and inactive user contacts and group messaging.

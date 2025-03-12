@@ -1,0 +1,1 @@
+This example can be used to show the order confirmation and the overview of the purchased items inside of a dismissible drawer component.

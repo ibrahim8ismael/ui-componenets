@@ -1,0 +1,1 @@
+Use this example to show a double layered navigation bar with the logo centered and with a secondary menu, shopping cart dropdown and user account menu.

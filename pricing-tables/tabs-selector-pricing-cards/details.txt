@@ -1,0 +1,1 @@
+Use this advanced example to show the pricing plan based on which tab is being activated by the website visitor based on the Tabs component

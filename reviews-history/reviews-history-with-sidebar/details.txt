@@ -1,0 +1,1 @@
+This example can be used to show a history of all submitted reviews as standalone cards in a sidebar layout with all CRUD actions included.

@@ -1,0 +1,1 @@
+Use this example as a header for a table component to show a list of comparison fields, CTA and options buttons, and a title with an informational tooltip.

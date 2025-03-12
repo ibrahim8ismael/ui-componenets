@@ -1,0 +1,1 @@
+Use this example of a payment form to select a previously used credit card and show a sidebar with an order summary and commercial information.

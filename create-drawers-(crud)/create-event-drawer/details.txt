@@ -1,0 +1,1 @@
+Use this example to create an event using a drawer component featuring input field items, user account invitations, and datepickers.

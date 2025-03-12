@@ -1,0 +1,1 @@
+This example can be used to show a sidebar with filters next to the product cards that feature size and color selection, images, prices, add to cart buttons, and more.

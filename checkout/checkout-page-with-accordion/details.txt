@@ -1,0 +1,1 @@
+Use this example to show delivery information, payment methods and the list of products inside of an accordion component.

@@ -1,0 +1,1 @@
+This example can be used to show a list of clients and case studies inside a carousel slider component featuring client logo, project name, description, technologies used and a CTA button.

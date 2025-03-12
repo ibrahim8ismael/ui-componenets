@@ -1,0 +1,1 @@
+Use this example of a sidenav to choose between multiple teams, a default navigation menu, and the ability to add and choose between projects.

@@ -1,0 +1,1 @@
+Use this advanced example to allow users to filter search results via keywords, categories, price, shipping method, and rating inside a dropdown component with an accordion.

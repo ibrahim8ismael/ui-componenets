@@ -1,0 +1,1 @@
+Use this example to show a list of clients in a grid layout with four columns featuring a logo, description, and link to the website of the customer.

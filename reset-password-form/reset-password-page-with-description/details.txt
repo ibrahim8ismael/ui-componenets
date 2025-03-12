@@ -1,0 +1,1 @@
+Use this example to also show a heading with description next to the reset password form.

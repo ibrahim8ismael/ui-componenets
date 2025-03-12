@@ -1,0 +1,1 @@
+Use this example to show a description, reviews, FAQ and highlights of the product inside of an interactive tab component.

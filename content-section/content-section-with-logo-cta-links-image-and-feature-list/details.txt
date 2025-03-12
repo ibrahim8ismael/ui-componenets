@@ -1,0 +1,1 @@
+This example can be used to show the logo, a couple of links, a featured image, text, and a feature list as a content section.

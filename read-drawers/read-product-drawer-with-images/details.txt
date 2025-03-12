@@ -1,0 +1,1 @@
+Use this example to show a list of details about a product from the database including images, prices, text information, and even colors.

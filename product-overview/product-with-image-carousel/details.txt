@@ -1,0 +1,1 @@
+Use this example to show the product images inside of a carousel component and show two more columns of product information and CTA buttons.

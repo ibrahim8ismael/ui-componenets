@@ -1,0 +1,1 @@
+Use this CRUD layout section to show details about an existing user from the database including their name, biography, location, and other CRUD action buttons for editing and deletion.

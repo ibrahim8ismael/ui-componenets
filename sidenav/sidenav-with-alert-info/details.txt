@@ -1,0 +1,1 @@
+This example can be used to show side navigation with menu items and a dismissable informational alert.

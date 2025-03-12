@@ -1,0 +1,1 @@
+Use this example to show the checkout details inside of a modal component such as the price breakdown, delivery details and payment information.

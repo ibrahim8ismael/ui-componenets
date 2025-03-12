@@ -1,0 +1,1 @@
+This example can be used to show data about a user from the database inside a drawer component.

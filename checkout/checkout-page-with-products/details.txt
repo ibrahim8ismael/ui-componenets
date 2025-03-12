@@ -1,0 +1,1 @@
+Use this example to show a list of products on the checkout page and a toggle selector for individual and company details.

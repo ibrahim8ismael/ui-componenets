@@ -1,0 +1,1 @@
+This example can be used to show a list of your product warranties within a table that includes the name, expiration date, warranty length, type, status and the options to download or extend.

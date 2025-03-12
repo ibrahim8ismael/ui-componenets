@@ -1,0 +1,1 @@
+You can use this example of testimonial cards up to two items on a row and show the title, description, avatar, name, and occupation.

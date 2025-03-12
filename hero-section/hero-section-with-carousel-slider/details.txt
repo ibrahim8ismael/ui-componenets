@@ -1,0 +1,1 @@
+Use this example to show a hero section with a carousel slider with images together with a main heading, description, two CTA buttons and a list of company logos.

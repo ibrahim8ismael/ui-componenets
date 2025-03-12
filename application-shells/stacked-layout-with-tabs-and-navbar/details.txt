@@ -1,0 +1,1 @@
+Use this example to show a list of navigation items as tabs below the main navbar component and add the content of your application inside the grid layout

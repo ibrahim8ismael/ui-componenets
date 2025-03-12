@@ -1,0 +1,1 @@
+Use this example to show a QR (quick response) code that your users can scan with their device and interact with another page or application.

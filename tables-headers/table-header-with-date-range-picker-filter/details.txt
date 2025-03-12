@@ -1,0 +1,1 @@
+Use this example to filter table results using a date range picker to pick a start and end time and a button to apply the options.

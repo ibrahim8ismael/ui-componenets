@@ -1,0 +1,1 @@
+Use this example of an image gallery coded with Tailwind CSS to provide a strong visual impact between the website sections on your page.

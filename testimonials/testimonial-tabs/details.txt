@@ -1,0 +1,1 @@
+Get started with an interactive section of testimonials where you can click on the tabs on the left side and show the testimonial text on the right side.

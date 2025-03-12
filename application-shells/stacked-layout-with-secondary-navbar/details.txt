@@ -1,0 +1,1 @@
+Use this example to show widgets inside the main content area below a two-level navigation bar with menu items and links on the top right side of the page.

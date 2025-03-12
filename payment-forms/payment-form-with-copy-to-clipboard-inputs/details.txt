@@ -1,0 +1,1 @@
+Use this example to copy the value of predefined input fields where you can get the beneficiary name, address, currency, amount, and account number.

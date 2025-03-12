@@ -1,0 +1,1 @@
+Use this example of a popup element to show a simple yes or no type of dialog to your website visitor based on the Modal component

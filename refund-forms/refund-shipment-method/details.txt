@@ -1,0 +1,1 @@
+This example can be used to provide shipping methods for the returning of the product based on the refund requested by the client.

@@ -1,0 +1,1 @@
+This example can be used on top of a table component to show statistics and a couple of CTA and option buttons.

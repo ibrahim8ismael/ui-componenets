@@ -1,0 +1,1 @@
+This example can be used to show a navigation bar with the logo, menu items, notifications, app center, project switch, user dropdown, and an advanced search input in the sub nav.

@@ -1,0 +1,1 @@
+Use this advanced modal to create a new product item inside your database featuring text input fields, dropzone file uploads, and more.

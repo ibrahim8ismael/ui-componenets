@@ -1,0 +1,1 @@
+Use this example to show a list of specifications inside of an accordion below the product image gallery and with a sidebar with more advanced options.

@@ -1,0 +1,1 @@
+This example can be used to show three projects on a row featuring an image, title, description, and two CTA buttons for the project case study and live preview of the website.

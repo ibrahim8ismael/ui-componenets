@@ -1,0 +1,1 @@
+Use this example of a forgot password page to show the account recovery form and a list of features on the left side of the page.

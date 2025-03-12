@@ -1,0 +1,1 @@
+This example can be used to promote a subscription plan for your e-commerce store or website inside of a modal component.

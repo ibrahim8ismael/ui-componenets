@@ -1,0 +1,1 @@
+This hero section can be used to feature a blog post with an image, author, title, category, and description with three other secondary blog posts.

@@ -1,0 +1,1 @@
+Use this example to show a larger list of product categories where you show a custom SVG icon and the title of the category on two or more rows and circular cards.

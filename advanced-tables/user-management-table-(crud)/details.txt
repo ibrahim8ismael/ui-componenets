@@ -1,0 +1,1 @@
+Use this example to show all the users from an application inside a row where you can show the avatar, role, status, social profiles, and CRUD actions.

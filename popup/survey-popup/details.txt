@@ -1,0 +1,1 @@
+Get started with this popup example to collect information from your website visitors in the form of a survey.

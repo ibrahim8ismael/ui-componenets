@@ -1,0 +1,1 @@
+This example can be used to show the details of an event inside a responsive modal component coded with Tailwind CSS.

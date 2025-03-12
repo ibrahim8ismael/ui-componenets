@@ -1,0 +1,1 @@
+Use this example to show a footer inside an admin dashboard with a copyright notice, sitemap links, language selector, and options buttons.

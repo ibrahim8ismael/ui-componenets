@@ -1,0 +1,1 @@
+Use this example to break up the filtering options into multiple categories by using the tabs components

@@ -1,0 +1,1 @@
+This drawer component can be used to show advanced details about a user including the profile avatar, social media accounts, skills, biography, and more.

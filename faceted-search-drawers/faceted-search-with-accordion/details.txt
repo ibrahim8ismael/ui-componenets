@@ -1,0 +1,1 @@
+Use this advanced example to show multiple filter options separated in a logical way inside an accordion component

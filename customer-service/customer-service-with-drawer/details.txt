@@ -1,0 +1,1 @@
+This example can be used to show both questions and answers and use a drawer with a form element that allows you to add a question.

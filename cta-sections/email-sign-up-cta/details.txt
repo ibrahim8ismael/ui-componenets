@@ -1,0 +1,1 @@
+Use this example to let users sign up for your newsletter or application by providing their email using the sign-up form and privacy notice.

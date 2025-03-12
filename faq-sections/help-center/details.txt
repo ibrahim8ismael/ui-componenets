@@ -1,0 +1,1 @@
+This is an advanced example that you can use to allow the user to search for questions and also show a list of helpful links inside cards.

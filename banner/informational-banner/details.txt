@@ -1,0 +1,1 @@
+This example can be used to show informational context such as upcoming maintenance of the website positioned to the top side of the page.

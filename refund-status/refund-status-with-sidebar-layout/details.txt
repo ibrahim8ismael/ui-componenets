@@ -1,0 +1,1 @@
+Use this example to show a page with a sidebar layout for the e-commerce dashboard for the refund status using a horizontal timeline and a list of informational items.

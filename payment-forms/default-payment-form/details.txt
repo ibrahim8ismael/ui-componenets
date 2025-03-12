@@ -1,0 +1,1 @@
+Use this component to make a purchase using a credit card by show input fields like the card number, full name, card expiration using a datepicker and the security code.

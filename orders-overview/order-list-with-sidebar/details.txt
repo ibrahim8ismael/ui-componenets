@@ -1,0 +1,1 @@
+Use this example to show an overview of the orders inside a page with a sidebar and show detailed information about each order and the ability to filter and sort them using dropdowns.

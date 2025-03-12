@@ -1,0 +1,1 @@
+Use this example to show a table settings button with a title, an informative tooltip, and a list of buttons to use for additional settings.

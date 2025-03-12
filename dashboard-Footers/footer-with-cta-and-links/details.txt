@@ -1,0 +1,1 @@
+This footer component can be used to show a CTA link with a copyright notice and a list of sitemap link items.

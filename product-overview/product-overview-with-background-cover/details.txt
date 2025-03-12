@@ -1,0 +1,1 @@
+Use this example to show an overview of the product with a background cover and a detailed description with CTA buttons.

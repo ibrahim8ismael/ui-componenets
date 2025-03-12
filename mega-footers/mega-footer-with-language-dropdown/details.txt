@@ -1,0 +1,1 @@
+This example can be used to show a footer with sitemap links, a language dropdown menu, company logo, featured links and the trademark notice.

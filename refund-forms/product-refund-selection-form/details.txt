@@ -1,0 +1,1 @@
+Use this component to select one or multiple products that you've ordered for a refund request and follow the next steps from the stepper form.

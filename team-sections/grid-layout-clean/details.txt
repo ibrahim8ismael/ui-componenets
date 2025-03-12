@@ -1,0 +1,1 @@
+This example can be used to showcase up to four team members on a single row based on a clean appearance without any background or card.

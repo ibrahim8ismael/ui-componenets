@@ -1,0 +1,1 @@
+Use this example to break up your filter options into multiple tabs such as price, shipping method, and categories.

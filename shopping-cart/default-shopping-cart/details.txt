@@ -1,0 +1,1 @@
+Use this component to show all the selected products including their price, quantity, title and image and manage the order summary before checkout.

@@ -1,0 +1,1 @@
+Use this example to show a list of comments and form submissions similar to the default comments section from WordPress.

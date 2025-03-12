@@ -1,0 +1,1 @@
+Use this example to show multiple payment options using checkbox elements for the user to choose from the refund request form.

@@ -1,0 +1,1 @@
+Use this component to show a list of all submitted reviews inside of a drawer component featuring star ratings, title, description, and CRUD buttons.

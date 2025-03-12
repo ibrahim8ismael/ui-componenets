@@ -1,0 +1,1 @@
+Use this component to show a CTA section with tabs and a preview of the mobile application inside a phone mockup frame.

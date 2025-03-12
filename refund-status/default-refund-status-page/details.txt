@@ -1,0 +1,1 @@
+Use this example to show a card of the product that is associated with the requested refund and a timeline of the process below.

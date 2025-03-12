@@ -1,0 +1,1 @@
+This example can be used to show the order summary inside of a sidebar and also add a coupon code for a discount next to the shopping cart.

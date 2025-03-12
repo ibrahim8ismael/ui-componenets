@@ -1,0 +1,1 @@
+This example can be used to show all refunds requested by a user inside a table component together with a search input and sorting/filtering dropdown menus.

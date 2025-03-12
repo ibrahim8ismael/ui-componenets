@@ -1,0 +1,1 @@
+This example can be used to show a larger team using a grid layout with overlayed cards and show a CTA card to encourage others to join your team.

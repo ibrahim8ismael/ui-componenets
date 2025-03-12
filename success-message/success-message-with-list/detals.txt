@@ -1,0 +1,1 @@
+Use this example to show a list of items that have been modified or deleted when showing the success message inside a modal component.

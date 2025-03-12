@@ -1,0 +1,1 @@
+This example can be used to show a copyright notice text with social media links using SVG icons and tooltips.

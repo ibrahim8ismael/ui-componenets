@@ -1,0 +1,1 @@
+Use this example to show advanced input fields when creating an event type inside a modal component.

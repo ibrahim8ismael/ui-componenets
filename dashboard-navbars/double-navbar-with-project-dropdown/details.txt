@@ -1,0 +1,1 @@
+Use this example to show a responsive double navbar with a project switch dropdown, user dropdown, notifications, and app center.

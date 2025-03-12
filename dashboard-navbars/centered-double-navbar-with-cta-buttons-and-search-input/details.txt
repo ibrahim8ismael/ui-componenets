@@ -1,0 +1,1 @@
+This example can be used in two lists of menu items of which one is centered alongside a CTA button, search input, notification dropdown, app center, and user dropdown.

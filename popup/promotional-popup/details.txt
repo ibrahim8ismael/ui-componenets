@@ -1,0 +1,1 @@
+You can use this example to show a popup after the user finished an action on the page, such as reading the article, to showcase a CTA and create an account.

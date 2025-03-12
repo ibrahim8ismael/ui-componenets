@@ -1,0 +1,1 @@
+This example can be used to show a list of featured cards as a way to promote shopping incentives to your potential e-commerce customers using SVG icons, a description and a CTA link.

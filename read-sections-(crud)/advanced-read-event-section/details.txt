@@ -1,0 +1,1 @@
+Use this website section to show more advanced details about an event from your database, such as invited guests, details, location, and more.

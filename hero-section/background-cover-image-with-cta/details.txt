@@ -1,0 +1,1 @@
+This example can be used to show multiple CTA buttons inside a hero section that has a faded background image for a more immersive look.

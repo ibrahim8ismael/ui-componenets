@@ -1,0 +1,1 @@
+Use this example to double check a delete action by typing the name of the item inside a text input field.

@@ -1,0 +1,1 @@
+Use this example to show a list of product cards that feature a title, image, promotion badge, add to favorites and cart buttons, price, and list of reviews.

@@ -1,0 +1,1 @@
+Use this drawer component to show form elements including file inputs, text field inputs and checkboxes when updating a user from the database.

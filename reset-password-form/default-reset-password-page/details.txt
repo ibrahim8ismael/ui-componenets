@@ -1,0 +1,1 @@
+Use this example with an email input and two password input fields to let the user change their password after receiving the account recovery email.

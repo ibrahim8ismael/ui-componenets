@@ -1,0 +1,1 @@
+This example can also be used to show a list of recommended blog posts with a rounded style for the image preview.

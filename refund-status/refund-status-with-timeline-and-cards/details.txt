@@ -1,0 +1,1 @@
+This example can be used to show a timeline of the refund process and cards with the associated information like the reason, price, and due date.

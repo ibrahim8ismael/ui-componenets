@@ -1,0 +1,1 @@
+Show a list of reviews that you've submitted as a user to an e-commerce website showing the title, description, rating, and a dropdown with CRUD actions.

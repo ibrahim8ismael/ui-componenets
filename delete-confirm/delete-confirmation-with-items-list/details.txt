@@ -1,0 +1,1 @@
+This example can be used to show the list of items that you are about to delete from the database inside a modal component.

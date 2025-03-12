@@ -1,0 +1,1 @@
+Use this free example of a 404 "not found" page coded with Tailwind CSS

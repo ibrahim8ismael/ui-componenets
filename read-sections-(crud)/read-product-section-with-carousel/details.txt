@@ -1,0 +1,1 @@
+Use this page section to show details of a product from your database including images inside a carousel slider, description, color tabs, categories, and other information.

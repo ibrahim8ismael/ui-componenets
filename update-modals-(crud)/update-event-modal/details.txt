@@ -1,0 +1,1 @@
+This example of a modal CRUD component can be used to update an existing event featuring a date picker, color tag picker, input text fields, and more.

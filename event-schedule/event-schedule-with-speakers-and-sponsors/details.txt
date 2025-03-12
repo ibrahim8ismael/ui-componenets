@@ -1,0 +1,1 @@
+This example can be used to show two columns of a timeline presenting the workshop title, a short description, the speakers, and even the sponsors of the event.

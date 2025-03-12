@@ -1,0 +1,1 @@
+This component can be used to show a list of reviews written by a user with search and filter features inside of a modal component.

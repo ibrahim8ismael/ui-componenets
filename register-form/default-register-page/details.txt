@@ -1,0 +1,1 @@
+This example can be used to allow users to create an account on your website using their email address and password and also a checkbox with the terms and conditions as a requirement.

@@ -1,0 +1,1 @@
+Use this example to show an advanced layout of a create type of modal component with an accordion separating two types of forms.

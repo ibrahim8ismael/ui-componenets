@@ -1,0 +1,1 @@
+Use this example to show a longer list of sitemap links, a copyright notice, and a language selector for your admin dashboard.

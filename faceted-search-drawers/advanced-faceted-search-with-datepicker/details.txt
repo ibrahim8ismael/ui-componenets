@@ -1,0 +1,1 @@
+This example can be used to filter search results inside a drawer component using datepickers, range sliders, checkbox, and radio groups.

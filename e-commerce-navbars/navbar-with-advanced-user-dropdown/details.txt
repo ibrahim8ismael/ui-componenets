@@ -1,0 +1,1 @@
+Use this example to show three levels inside of a navbar component including a promotional banner, shopping cart and user dropdowns, a search bar and a mega menu with categories.

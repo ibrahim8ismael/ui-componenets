@@ -1,0 +1,1 @@
+Use this example of an advanced CRUD form to create an event data entry featuring date range picker input fields, WYSIWYG editors, and more.

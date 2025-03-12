@@ -1,0 +1,1 @@
+Use this CRUD form with accordions to separate the content inside when creating new advanced data entries with multiple text input fields, date pickers, dropzone upload input fields, and more.

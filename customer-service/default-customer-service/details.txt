@@ -1,0 +1,1 @@
+Use this component to show a list of question and a form where you can submit a question within a modal to provide support to customers.

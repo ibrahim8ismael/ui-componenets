@@ -1,0 +1,1 @@
+Use this example to show navigational tabs for the table component and change the content inside when clicking on one or the other.

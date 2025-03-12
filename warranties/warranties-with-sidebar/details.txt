@@ -1,0 +1,1 @@
+This example can be used to show a list of product warranties using cards within a sidebar layout and show multiple options within a drawer to extend the warranty period.

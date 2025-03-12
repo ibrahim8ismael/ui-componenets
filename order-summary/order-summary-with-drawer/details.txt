@@ -1,0 +1,1 @@
+This example can be used to add all order summary information inside of a drawer component that can be shown or dismissed off-canvas.

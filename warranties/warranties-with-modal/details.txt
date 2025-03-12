@@ -1,0 +1,1 @@
+Use this example to show a list of all product warranties inside of a modal component featuring the product name, warranty length period and expiration, and button actions to download and extend.

@@ -1,0 +1,1 @@
+Use this step from the user onboarding process to ask for details such as the email address, full name, password, country and phone number.

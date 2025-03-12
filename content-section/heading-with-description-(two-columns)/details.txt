@@ -1,0 +1,1 @@
+This example can be used to show another block of text next to the classic heading with the paragraph and CTA link version.

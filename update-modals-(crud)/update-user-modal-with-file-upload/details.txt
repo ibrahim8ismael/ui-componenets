@@ -1,0 +1,1 @@
+Use this modal component to update user data based on form elements like text inputs, WYSIWYG editors, file uploads, and more.

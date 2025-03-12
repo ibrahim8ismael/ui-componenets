@@ -1,0 +1,1 @@
+Use this example to expand a table row when clicking on it and show more details about a given data entry such as images, descriptions, and more.

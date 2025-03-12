@@ -1,0 +1,1 @@
+Use this example to show multiple input fields, checkboxes, range sliders, and select inputs to apply filter elements inside a modal.

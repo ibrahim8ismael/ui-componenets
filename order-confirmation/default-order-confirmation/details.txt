@@ -1,0 +1,1 @@
+Use this example to show an order confirmation with details and follow up buttons to track the order or return shopping after successfully finishing payment.

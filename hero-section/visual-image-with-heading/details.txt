@@ -1,0 +1,1 @@
+Use this example to show an image next to the heading and CTA buttons to improve the visual impact of the website's first visit.

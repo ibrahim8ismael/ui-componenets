@@ -1,0 +1,1 @@
+This example can be used to show a couple of cards with an image, description, progress bar, and CTA button for detailed information.

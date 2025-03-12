@@ -1,0 +1,1 @@
+This section can be used to indicate a successful confirmation message using a check icon and an illustration for a submitted product reparation request and is the last step from the stepper component.

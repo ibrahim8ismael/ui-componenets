@@ -1,0 +1,1 @@
+Use the success message page as the last step of the onboarding process before the user can access their application dashboard interface and log into their account.

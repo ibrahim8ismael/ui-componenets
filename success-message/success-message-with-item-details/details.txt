@@ -1,0 +1,1 @@
+Use this example of a success message component to show the details of an item that has been removed or modified including an image.

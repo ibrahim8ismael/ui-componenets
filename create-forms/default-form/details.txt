@@ -1,0 +1,1 @@
+Use this free example of a form based on the CRUD layouts where you can create a new data entry inside your dashboard.

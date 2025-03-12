@@ -1,0 +1,1 @@
+Use this free example of a success message component inside a modal to share feedback with your user when an action has been completed.

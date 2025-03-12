@@ -1,0 +1,1 @@
+This example of a 404 page can be used to attempt to convince the user that couldn't find a page to keep searching for other resources before leaving your website.

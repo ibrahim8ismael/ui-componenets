@@ -1,0 +1,1 @@
+Use this example to send a wire transfer by completing payment data such as the IBAN address, payment amount, bank address and more using input fields.

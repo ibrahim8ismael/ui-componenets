@@ -1,0 +1,1 @@
+Use this example to show a modal component containing the refund status elements such as a timeline and a list of informations related to the requested refund.

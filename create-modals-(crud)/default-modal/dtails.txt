@@ -1,0 +1,1 @@
+example to show a modal component with a form inside when creating a new instance of a product inside your application.

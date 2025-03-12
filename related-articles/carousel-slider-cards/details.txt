@@ -1,0 +1,1 @@
+This example can be used to show a list of related articles in cards within a carousel slider shown after the main blog post content.

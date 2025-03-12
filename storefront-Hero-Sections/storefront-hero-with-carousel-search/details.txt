@@ -1,0 +1,1 @@
+Use this example to show an advanced storefront hero section with a carousel component featuring limited deals and a search bar for your e-commerce website.

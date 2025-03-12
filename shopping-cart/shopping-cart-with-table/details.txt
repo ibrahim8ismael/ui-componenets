@@ -1,0 +1,1 @@
+Use this component to show a list of products in your shopping cart inside a table with quantity selectors, and order summary and CTA buttons for purchase.

@@ -1,0 +1,1 @@
+Use this example of a drawer component to create a user account from your administrative dashboard.

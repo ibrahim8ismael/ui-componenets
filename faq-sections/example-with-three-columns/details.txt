@@ -1,0 +1,1 @@
+Use this example if you want to show up to three FAQ items for every row and place them below a pricing section for increased conversion rate.

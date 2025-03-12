@@ -1,0 +1,1 @@
+This example can be used to show an overview of your e-commerce account featuring personal information, shipping details, a table with orders, discount offers and more.

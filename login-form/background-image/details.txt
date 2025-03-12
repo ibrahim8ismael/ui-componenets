@@ -1,0 +1,1 @@
+Use this example to show a background image on the whole page with the login form in the center of it.

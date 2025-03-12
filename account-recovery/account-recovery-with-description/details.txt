@@ -1,0 +1,1 @@
+Use this example of an account recovery form with a description on the right side of the page.

@@ -1,0 +1,1 @@
+Use this example to show cards with a faded background image for visually important products often used by carmakers such as BMW or Mercedes.

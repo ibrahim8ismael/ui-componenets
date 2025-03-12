@@ -1,0 +1,1 @@
+Use this advanced stacked application shell layout with a responsive three level navigation bar that includes search, user options, menu items, and more coded with Tailwind CSS

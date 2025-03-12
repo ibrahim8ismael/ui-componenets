@@ -1,0 +1,1 @@
+Use this free example of a modal component to update an existing data entry inside the database featuring text field inputs, selects, and a textarea.

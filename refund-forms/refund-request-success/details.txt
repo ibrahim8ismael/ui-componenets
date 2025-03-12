@@ -1,0 +1,1 @@
+This example can be used to show the final step of the refund request process by showing a success message and a CTA button that links to the status page.

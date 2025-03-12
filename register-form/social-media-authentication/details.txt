@@ -1,0 +1,1 @@
+Use this example to allow users to authenticate using their social media accounts such as Google or Apple and also a list of features on the left side of the page.

@@ -1,0 +1,1 @@
+This example can be used to create a user with more advanced details such as permissions, avatar, user role, and more.

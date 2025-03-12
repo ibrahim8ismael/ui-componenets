@@ -1,0 +1,1 @@
+Use this example to show a footer with the a list of sitemap links, a CTA link to create an account, subscribe to the newsletter, buttons to download the mobile application and the trademark notice.

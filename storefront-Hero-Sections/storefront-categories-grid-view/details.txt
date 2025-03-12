@@ -1,0 +1,1 @@
+Use this example to show a complex grid view of the primary and secondary highlighted categories from your e-commerce website.

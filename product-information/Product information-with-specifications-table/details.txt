@@ -1,0 +1,1 @@
+Use this example to show a couple of feature sections with text and image for the product and a table of technical specifications below.

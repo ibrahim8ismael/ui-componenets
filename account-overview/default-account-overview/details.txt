@@ -1,0 +1,1 @@
+Use this example to show a general overview of the currently logged in user's account such as statistics, profile information, shipping address, credit card information, list of latest orders and modals with forms to edit data.

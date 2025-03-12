@@ -1,0 +1,1 @@
+Use this component to show multiple payment methods with tabs including credit card, monthly fees, crypto and PayPal transfers.

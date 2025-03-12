@@ -1,0 +1,1 @@
+Use this example of a banner component to announce new features or changes to the website including a badge, description text and CTA link.

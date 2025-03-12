@@ -1,0 +1,1 @@
+This example can be used to collect data for the reasoning of the refund which is a necessary step in the request of the returning of a product.

@@ -1,0 +1,1 @@
+Use this example to show two product cards inside of a carousel component that features product images, description, reviews, pricing, color and quantity selection and add to cart buttons.

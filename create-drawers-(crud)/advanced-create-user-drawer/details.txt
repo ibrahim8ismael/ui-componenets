@@ -1,0 +1,1 @@
+Use this example to show multiple fields when creating a user such as a file upload for the profile picture, text inputs and checkboxes for user roles.

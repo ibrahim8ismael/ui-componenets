@@ -1,0 +1,1 @@
+title, description, and CTA button for creating a new item inside the table data.

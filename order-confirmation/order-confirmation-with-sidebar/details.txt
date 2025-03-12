@@ -1,0 +1,1 @@
+This example can be used to show the order details and an overview of the products purchased as a confirmation of a successful online payment.

@@ -1,0 +1,1 @@
+This table layout can be used to show expandable rows to show more information about a data entry including the CRUD actions and modals.

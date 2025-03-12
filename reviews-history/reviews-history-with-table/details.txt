@@ -1,0 +1,1 @@
+Use this example to show a list of reviews inside a table with filter and sorting features and all CRUD actions included using modals.

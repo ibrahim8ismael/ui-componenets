@@ -1,0 +1,1 @@
+This advanced navbar can be used to show three levels of layers featuring menu items, project switcher dropdowns, CTA buttons, notifications, an app center, and a user dropdown.

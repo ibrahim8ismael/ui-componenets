@@ -1,0 +1,1 @@
+This component can be used to show a list of all product warranties within a drawer component including filter options and action buttons.

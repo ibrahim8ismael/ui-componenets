@@ -1,0 +1,1 @@
+Use this example if you want to highlight the search functionality of your website and allow your users to query for page results based on the search input interaction.

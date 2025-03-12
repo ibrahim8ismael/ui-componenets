@@ -1,0 +1,1 @@
+Use this example to also show a list of features about your website next to the reset password form.

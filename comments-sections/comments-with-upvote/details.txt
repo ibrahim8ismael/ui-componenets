@@ -1,0 +1,1 @@
+This example can be used to allow upvoting or downvoting comments similar to Reddit including the reply feature.

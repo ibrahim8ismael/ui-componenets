@@ -1,0 +1,1 @@
+Use this example of a 500 server error page with a background image to show more visually impactful content.

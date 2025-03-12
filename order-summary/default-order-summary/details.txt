@@ -1,0 +1,1 @@
+Use this example to show a list of selected products, billing information, shipping details and a payment method before sending the order.

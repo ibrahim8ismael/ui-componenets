@@ -1,0 +1,1 @@
+Use this example to show basic information about an event data entry from the database.

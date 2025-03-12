@@ -1,0 +1,1 @@
+Use this example to show a simple heading, paragraph, and a couple of CTA buttons to encourage users to take action.

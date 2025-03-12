@@ -1,0 +1,1 @@
+Use this shell layout to show two sidebars on each side of the page to show a list of menu items and user profile options and links.
